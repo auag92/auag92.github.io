@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nanopurous Two Dimensional Materials: An Introduction
+title: An Introduction
 ---
 
 ### Nanoporous materials are awesome!!!
