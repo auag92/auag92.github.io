@@ -1,12 +1,20 @@
 ---
 layout: post
-title: You're up and running!
+title: Nanopurous Two Dimensional Materials: An Introduction
 ---
-Yay!!! I seem to be totally up an running.
+Nanoporous materials are defined as materials having pore
+less than 100 nm in size which are often comparable to the size of individual molecules.
 
-Next you can update your site name, avatar and other options using
-the _config.yml file in the root of your repository (shown below).
+Nanoporous materials have a series of unique properties, making nanoporous materials useful for industrially important applications such as gas storage, separations, catalysis, et cetera.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+A vast number of unique nanoporous materials can be synthesized, varying in chemical composition and pore topology.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+In addition hundreds of thousand hypothetical materials have been computationally predicted and a considerable number of computational screening studies have appeared in the literature that examine the potential of nanoporous materials for a series of applications
+
+Commonly used classes of nanoporous frameworks are metal-organic frameworks (MOFs), zeolites, and porous polymer networks (PPNs)
+
+![_config.yml]({{ site.baseurl }}/images/zeolite_intro.png)
+
+Our group has generated a set of hypothetical nanoporous slabs.
+You can find and download the material at the following link.
+(https://github.com/barryclark/jekyll-now)
