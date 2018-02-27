@@ -1,7 +1,10 @@
 ---
 layout: post
-title: Nanopurous Two Dimensional Materials: An Introduction
+title: 2014-3-3-Introduction
 ---
+
+# An Introduction to Nanoporous 2D Materials
+
 Nanoporous materials are defined as materials having pore
 less than 100 nm in size which are often comparable to the size of individual molecules.
 
