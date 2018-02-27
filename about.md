@@ -7,9 +7,10 @@ permalink: /about/
 This website is the home of the Georgia Tech N2DM project on the
 world wide web.
 
-### Key Persons
-Apaar Shanker  
+### Developers
 Omar Knio
+Apaar Shanker  
+
 
 ### Contact me
 
