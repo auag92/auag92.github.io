@@ -13,6 +13,4 @@ Nanoporous materials have a series of unique properties, making nanoporous mater
 ![_config.yml]({{ site.baseurl }}/images/zeolite_intro.png)
 
 Commonly used classes of nanoporous frameworks are metal-organic frameworks (MOFs), zeolites, and porous polymer networks (PPNs). In our present work, we have synthesized, in-silico, a large number of
-this nanoporous 2 dimensional zeolite slabs. These slabs are available for public download at the following link.
-
-(https://github.com/barryclark/jekyll-now)
+this nanoporous 2 dimensional zeolite slabs. These slabs are available for public download at this download link.](https://www.dropbox.com/s/t0p98tazccachk7/slabs.tar?dl=1)
