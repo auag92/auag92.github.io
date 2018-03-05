@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Introduction
+title: Pore Characterization
 ---
 
 ### Description of Pore Characterization work flow
