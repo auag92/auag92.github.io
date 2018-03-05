@@ -13,6 +13,9 @@ Nanoporous materials have a series of unique properties, making nanoporous mater
 
 ![_config.yml]({{ site.baseurl }}/images/zeolite_intro.png)
 
+The Structure of a MFI based slab is visualized as below:
+![_config.yml]({{ site.baseurl }}/images/MFI_slab.gif)
+
 Commonly used classes of nanoporous frameworks are metal-organic frameworks (MOFs), zeolites, and porous polymer networks (PPNs). In our present work, we have synthesized, in-silico, a large number of
 this nanoporous 2 dimensional zeolite slabs. These slabs are available for public download at this [download link](https://www.dropbox.com/s/34919kms1qii04n/Slabs.zip?dl=1)
 

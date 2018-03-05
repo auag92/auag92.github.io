@@ -8,7 +8,8 @@ This website is the home of the Georgia Tech N2DM project on the
 WorldWideWeb.
 
 ### Developers
-Omar Knio
+Omar Knio,  
+
 Apaar Shanker  
 
 
