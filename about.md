@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 This website is the home of the Georgia Tech N2DM project on the
-world wide web.
+WorldWideWeb.
 
 ### Developers
 Omar Knio
