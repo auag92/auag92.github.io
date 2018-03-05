@@ -1,6 +1,7 @@
 ---
 layout: post
 title: An Introduction
+comments: true
 ---
 
 ### Description of N2DM workflow
