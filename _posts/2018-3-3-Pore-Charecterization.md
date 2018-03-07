@@ -12,3 +12,25 @@ Nanoporous materials have a series of unique properties, making nanoporous mater
 
 The Pore Structure of SBE accessible to CH4 is visualized as below:
 ![_config.yml]({{ site.baseurl }}/images/SBE_pore_ch4.gif)
+
+The Pore Structure of DDR is visualized as below:
+![_config.yml]({{ site.baseurl }}/images/DDR_structure.gif)
+
+The Pore Structure of DDR accessible by a 1.5A radius probe is visualized as below:
+![_config.yml]({{ site.baseurl }}/images/DDR_pore_all.gif)
+
+The **accessible Pore Volume** of DDR accessible by a 1.5A radius probe is visualized
+as below:
+![_config.yml]({{ site.baseurl }}/images/DDR_pore_cleaned.gif)
+
+The skeleton of the Pore Structure is visualized as below:
+![_config.yml]({{ site.baseurl }}/images/DDR_skeleton.gif)
+
+The skeleton of the Pore Structure overlayed on the Pore is visualized as below:
+![_config.yml]({{ site.baseurl }}/images/DDR_skeleton_pore.gif)
+
+The shortest paths for the probe through the Pore Structure are visualized as below:
+![_config.yml]({{ site.baseurl }}/images/DDR_graph.gif)
+
+The shortest paths for the probe through the Pore Structure are overlayed against the pore skeleton:
+![_config.yml]({{ site.baseurl }}/images/DDR_graph_skel.gif)
