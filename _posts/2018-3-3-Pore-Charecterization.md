@@ -33,4 +33,4 @@ The shortest paths for the probe through the Pore Structure are visualized as be
 ![_config.yml]({{ site.baseurl }}/images/DDR_graph.gif)
 
 The shortest paths for the probe through the Pore Structure are overlayed against the pore skeleton:
-![_config.yml]({{ site.baseurl }}/images/DDR_graph_skel.gif)
+![_config.yml]({{ site.baseurl }}/images/DDR_graph_skel_overlay.gif)
