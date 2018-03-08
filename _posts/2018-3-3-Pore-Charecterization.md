@@ -10,8 +10,14 @@ less than 100 nm in size which are often comparable to the size of individual mo
 
 Nanoporous materials have a series of unique properties, making nanoporous materials useful for industrially important applications such as gas storage, separations, catalysis, et cetera. A vast number of unique nanoporous materials can be synthesized, varying in chemical composition and pore topology. In addition hundreds of thousand hypothetical materials have been computationally predicted and a considerable number of computational screening studies have appeared in the literature that examine the potential of nanoporous materials for a series of applications.
 
-The computed PLDs plotted against benchmark data
-![_config.yml]({{ site.baseurl }}/images/PLD_apaar_zeoPP_slide.png)
+The computed PLDs plotted against benchmark data:
+ - Accuracy of computation: 0.108 Angstrom
+
+![_config.yml]({{ site.baseurl }}/images/slide1.png)
+
+![_config.yml]({{ site.baseurl }}/images/slide2.png)
+
+![_config.yml]({{ site.baseurl }}/images/slide3.png)
 
 The Pore Structure of SBE accessible to CH4 is visualized as below:
 ![_config.yml]({{ site.baseurl }}/images/SBE_pore_ch4.gif)
