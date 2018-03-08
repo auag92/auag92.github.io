@@ -19,6 +19,9 @@ The computed PLDs plotted against benchmark data:
 
 ![_config.yml]({{ site.baseurl }}/images/slide3.png)
 
+On correcting the aberrant zeo plus plus values with IZA dabase values
+![_config.yml]({{ site.baseurl }}/images/slide4.png)
+
 The Pore Structure of SBE accessible to CH4 is visualized as below:
 ![_config.yml]({{ site.baseurl }}/images/SBE_pore_ch4.gif)
 
