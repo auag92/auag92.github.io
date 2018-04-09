@@ -13,6 +13,10 @@ Nanoporous materials have a series of unique properties, making nanoporous mater
 The computed PLDs plotted against benchmark data
 ![_config.yml]({{ site.baseurl }}/images/PLD_apaar_zeoPP_slide.png)
 
+The computed PLDs of the thick and thin slabs for all miller indices for all
+iza frameworks.
+![_config.yml]({{ site.baseurl }}/images/PLD_slabs.png)
+
 The Pore Structure of SBE accessible to CH4 is visualized as below:
 ![_config.yml]({{ site.baseurl }}/images/SBE_pore_ch4.gif)
 
