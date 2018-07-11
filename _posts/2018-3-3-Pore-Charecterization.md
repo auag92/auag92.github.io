@@ -25,6 +25,10 @@ On correcting the aberrant zeo plus plus values with IZA dabase values
 On comparing LCD values as additional sanity check
 ![_config.yml]({{ site.baseurl }}/images/LCD_apaar_vs_zeoPP.png)
 
+The computed PLDs of the thick and thin slabs for all miller indices for all
+iza frameworks.
+![_config.yml]({{ site.baseurl }}/images/PLD_slabs.png)
+
 The Pore Structure of SBE accessible to CH4 is visualized as below:
 ![_config.yml]({{ site.baseurl }}/images/SBE_pore_ch4.gif)
 
