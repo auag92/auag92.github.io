@@ -4,14 +4,36 @@ title: About
 permalink: /about/
 ---
 
-This website is the home of the Georgia Tech N2DM project on the
-WorldWideWeb.
+## Apaar Shanker
 
-### Developers
-Omar Knio,  
+Apaar is currently a PhD student in the MINED Group at the
+Georgia Institute of Technology. He received his undergraduate degree from the
+Indian Institute of Science, Bangalore.
 
-Apaar Shanker  
+### Research Interests
 
+    Machine Learning
+    Data Analytics
+    Uncertainty Quantification
+    Model Development
+    Computational Materials Science
+
+### Work Environment:
+C, Matlab, Python
+
+### Expertise
+
+    Phase field Modeling
+    Materials Characterization
+    Multi-scale modeling
+    Automation
+    Machine Learning
+
+
+### Current Projects
+
+    Developing computational infrastructure to support collaborative research.
+    Accelerating materials development cycle through data mining and materials informatics
 
 ### Contact me
 
