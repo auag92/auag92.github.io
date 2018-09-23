@@ -7,8 +7,9 @@ permalink: /about/
 ## Apaar Shanker
 
 Apaar is currently a PhD student in the MINED Group at the
-Georgia Institute of Technology. He received his undergraduate degree from the
-Indian Institute of Science, Bangalore.
+Georgia Institute of Technology. His research focuses developing AI based tools
+for automating and accelerating materials discovery and deployment. He received
+his undergraduate degree from the Indian Institute of Science, Bangalore.
 
 ### Areas of Interest
 
@@ -28,4 +29,4 @@ Python, C, C++
 
 ### Contact me
 
-[apaar92@gmail.com](mailto:apaar92@gmail.com)
+[apaar.shanker.gatech.edu](mailto:apaar.shanker.gatech.edu)
